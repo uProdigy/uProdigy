@@ -11,7 +11,9 @@ Desenvolvedor web em **Uberaba, MG**. Crio sites rápidos e bonitos para clínic
 
 ### Modelos de site
 
-Dois exemplos prontos de site para clínica. Os nomes e os dados são fictícios; no site de cada cliente entram o nome, as fotos e os serviços reais.
+Sete modelos prontos para clínicas e consultórios: estética, odontologia, fisioterapia, psicologia, nutrição, podologia e veterinária. **[Ver todos no portfólio](https://uprodigy.github.io)**.
+
+Os nomes e os dados são fictícios; no site de cada cliente entram o nome, as fotos e os serviços reais. Dois deles:
 
 | Clínica de estética | Clínica odontológica |
 |---|---|
